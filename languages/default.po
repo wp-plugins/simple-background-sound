@@ -1,0 +1,160 @@
+# Copyright (C) 2015 Memmel emprendimientos
+# Rafael Memmel <rafael@rafamemmel.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Background Sound 1.0\n"
+"Report-Msgid-Bugs-To: http://www.rafamemmel.com/contacto.php\n"
+"POT-Creation-Date: 2015-04-28 14:11:27+00:00\n"
+"PO-Revision-Date: 2015-05-04 08:06-0300\n"
+"Last-Translator: Dahina Colman <dahianacolman26@gmail.com>\n"
+"Language-Team: memmel\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: simple_bg_sound.php:21
+msgid "ERROR: It had not been possible to open the file. Review your name and your permissions."
+msgstr ""
+
+#: simple_bg_sound.php:113
+msgid "Configure here all the MP3 and OGG files for the background sound..."
+msgstr ""
+
+#: simple_bg_sound.php:117
+msgid "Audio Files"
+msgstr ""
+
+#: simple_bg_sound.php:121
+msgid "You can upload the files by using the "
+msgstr ""
+
+#: simple_bg_sound.php:122
+msgid "Wordpress Media library"
+msgstr ""
+
+#: simple_bg_sound.php:123
+msgid ", copy the url and paste in the following text fields:"
+msgstr ""
+
+#: simple_bg_sound.php:128
+msgid "MP3 File URL"
+msgstr ""
+
+#: simple_bg_sound.php:132
+msgid "OGG File URL"
+msgstr ""
+
+#: simple_bg_sound.php:140
+msgid "Audio Player Settings"
+msgstr ""
+
+#: simple_bg_sound.php:144
+msgid "You can also customize the sound player, if you wish."
+msgstr ""
+
+#: simple_bg_sound.php:149
+msgid "Background Color"
+msgstr ""
+
+#: simple_bg_sound.php:150
+msgid "Use an hexadecimal code or transparency. Example:"
+msgstr ""
+
+#: simple_bg_sound.php:153
+msgid "Place"
+msgstr ""
+
+#: simple_bg_sound.php:155
+msgid "Left"
+msgstr ""
+
+#: simple_bg_sound.php:157
+msgid "Right"
+msgstr ""
+
+#: simple_bg_sound.php:190
+msgid "Autoplay"
+msgstr ""
+
+#: simple_bg_sound.php:192
+msgid "Yes"
+msgstr ""
+
+#: simple_bg_sound.php:194
+msgid "No"
+msgstr ""
+
+#: simple_bg_sound.php:227
+msgid "Loop"
+msgstr ""
+
+#: simple_bg_sound.php:260
+msgid "Play only in"
+msgstr ""
+
+#: simple_bg_sound.php:264
+msgid "Posts Home"
+msgstr ""
+
+#: simple_bg_sound.php:266
+msgid "Static Page Home"
+msgstr ""
+
+#: simple_bg_sound.php:268
+msgid "Always Play (Default)"
+msgstr ""
+
+#: simple_bg_sound.php:323
+msgid "Hide Volume Control"
+msgstr ""
+
+#: simple_bg_sound.php:356
+msgid "Play Icon"
+msgstr ""
+
+#: simple_bg_sound.php:360
+msgid "Pause Icon"
+msgstr ""
+
+#: simple_bg_sound.php:364
+msgid "Stop Icon"
+msgstr ""
+
+#: simple_bg_sound.php:368
+msgid "Volume Down Icon"
+msgstr ""
+
+#: simple_bg_sound.php:372
+msgid "Volume Up Icon"
+msgstr ""
+
+#: simple_bg_sound.php:385
+msgid "Save Changes"
+msgstr ""
+
+#: simple_bg_sound.php:389
+msgid "Powered by:"
+msgstr ""
+
+#: simple_bg_sound.php:389
+msgid "Default music by:"
+msgstr ""
+
+#: simple_bg_sound.php:389
+msgid "Donate"
+msgstr ""
+
+#: simple_bg_sound.php:391
+msgid "Share this plugin on Twitter:"
+msgstr ""
+
+#: simple_bg_sound.php:411
+msgid "<strong>Tip:</strong> Your server limits the upload to the size of "
+msgstr ""
+
+#: simple_bg_sound.php:411
+msgid " MB, if your file is bigger, you could search a plugin to increase the “Upload Max Filesize”. We recommend you that the audio files not exceed the 10 MB."
+msgstr ""
