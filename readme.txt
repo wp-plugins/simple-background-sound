@@ -10,10 +10,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This simple and easy plugin allows you to add background music to your website or blog with WordPress.
 == Description ==
 Simple Background Sound it is a simple plugin that allows play any sound, whether it is a music, a recording, a loop or if you wish it to play as a background sound in your web site with wordpress.
+
 You will be able to configure to reproduce it in all the web site, alone in a static home page or just in a post home.
+
 You will be able to customize the player, choose the position in the footer and change the icons and colours, if you wish so. All of this possible from a simple interface easy to use.
+
 You will not need to add or edit an HTML or Php code in your website, so that you can use this plugin without problems if you don’t have any programming knowledge. The “Simple Background Sound” Plugin” is in charge to do all this work for you.
+
 Bring your site to life, with an enjoyable background music and catch the attention of all your visitors!
+
 Live demo: http://www.paraguapp.com/simple-background-sound/
 == Installation ==
 1. Download
